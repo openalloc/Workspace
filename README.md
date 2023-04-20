@@ -55,7 +55,7 @@ openalloc.github.io
 Then you can open the workspace with: 
 
 ```bash
-$ open Workspace/open_alloc.xcworkspace
+$ open Workspace/openalloc.xcworkspace
 ```
 
 ## License
