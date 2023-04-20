@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../FlowAllocatorApp/FlowAllocatorApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../FlowAllocHigh">
+   </FileRef>
+   <FileRef
+      location = "group:../FlowAllocLow">
+   </FileRef>
+   <FileRef
+      location = "group:../FlowWorthApp/FlowWorthApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../FlowWorthLib">
+   </FileRef>
+   <FileRef
+      location = "group:../FlowUI">
+   </FileRef>
+   <FileRef
+      location = "group:../FlowBase">
+   </FileRef>
+   <FileRef
+      location = "group:../AllocData">
+   </FileRef>
+   <FileRef
+      location = "group:../FINporter">
+   </FileRef>
+   <FileRef
+      location = "group:../FINporterAllocSmart">
+   </FileRef>
+   <FileRef
+      location = "group:../FINporterCLI">
+   </FileRef>
+   <FileRef
+      location = "group:../FINporterChuck">
+   </FileRef>
+   <FileRef
+      location = "group:../FINporterFido">
+   </FileRef>
+   <FileRef
+      location = "group:../FINporterTabular">
+   </FileRef>
+   <FileRef
+      location = "group:../FlowStats">
+   </FileRef>
+   <FileRef
+      location = "group:../FlowViz">
+   </FileRef>
+   <FileRef
+      location = "group:../FlowXCT">
+   </FileRef>
+   <FileRef
+      location = "group:../SwiftCompactor">
+   </FileRef>
+   <FileRef
+      location = "group:../SwiftDetailer">
+   </FileRef>
+   <FileRef
+      location = "group:../SwiftDetailerMenu">
+   </FileRef>
+   <FileRef
+      location = "group:../SwiftModifiedDietz">
+   </FileRef>
+   <FileRef
+      location = "group:../SwiftNiceScale">
+   </FileRef>
+   <FileRef
+      location = "group:../SwiftNumberPad">
+   </FileRef>
+   <FileRef
+      location = "group:../SwiftRegressor">
+   </FileRef>
+   <FileRef
+      location = "group:../SwiftSeriesResampler">
+   </FileRef>
+   <FileRef
+      location = "group:../SwiftSideways">
+   </FileRef>
+   <FileRef
+      location = "group:../SwiftSimpleTree">
+   </FileRef>
+   <FileRef
+      location = "group:../SwiftTabler">
+   </FileRef>
+   <FileRef
+      location = "group:../SwiftTextFieldPreset">
+   </FileRef>
+   <FileRef
+      location = "group:../Workspace">
+   </FileRef>
+   <FileRef
+      location = "group:../openalloc.github.io">
+   </FileRef>
+   <FileRef
+      location = "group:../.github">
+   </FileRef>
+   <FileRef
+      location = "group:../DetailerDemo/DetailerDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../TablerDemo/TablerDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../TablerCoreDemo/TablerCoreDemo.xcodeproj">
+   </FileRef>
+</Workspace>
