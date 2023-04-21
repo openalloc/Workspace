@@ -58,6 +58,13 @@ Then you can open the workspace with:
 $ open Workspace/openalloc.xcworkspace
 ```
 
+## See also
+
+This repository is a member of the _OpenAlloc Project_.
+
+* [_OpenAlloc_](https://openalloc.github.io) - product website for all the _OpenAlloc_ apps and libraries
+* [_OpenAlloc Project_](https://github.com/openalloc) - Github site for the development project, including full source code
+
 ## License
 
 Copyright 2023 OpenAlloc LLC
